@@ -2,6 +2,7 @@
 #include<stdlib.h>
 #include<time.h>
 
+
 int main(){
     int number, guess, nguesses=1;
     srand(time(0));
