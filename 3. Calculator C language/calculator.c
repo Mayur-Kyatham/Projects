@@ -3,7 +3,6 @@
 #include <string.h>
 #include <math.h>
 
-
 int main(int argc, char *argv[])
 {
   float valueOne;
