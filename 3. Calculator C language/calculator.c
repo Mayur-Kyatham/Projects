@@ -10,7 +10,6 @@ int main(int argc, char *argv[])
   float answer;
   printf("Enter calculation:\n\n");
   scanf("%f %c %f", &valueOne, &operator, & valueTwo);
-
   switch(operator)
     {
     case '/': answer = valueOne/valueTwo;
