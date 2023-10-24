@@ -2,14 +2,12 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
-
 int main(int argc, char *argv[])
 {
   float valueOne;
   float valueTwo;
   char operator;
   float answer;
-
   printf("Enter calculation:\n\n");
   scanf("%f %c %f", &valueOne, &operator, & valueTwo);
 
