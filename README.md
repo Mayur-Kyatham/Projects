@@ -3,5 +3,3 @@
 2. Snake water and gun game
 3. Calculator C programming
 
-4. A 2D vector program using structures
-5. 
